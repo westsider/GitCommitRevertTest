@@ -56,9 +56,9 @@
 		980ADC242549E206002B7321 /* GitCommitRevertTest */ = {
 			isa = PBXGroup;
 			children = (
+				980ADC292549E206002B7321 /* ViewController.swift */,
 				980ADC252549E206002B7321 /* AppDelegate.swift */,
 				980ADC272549E206002B7321 /* SceneDelegate.swift */,
-				980ADC292549E206002B7321 /* ViewController.swift */,
 				980ADC2B2549E206002B7321 /* Main.storyboard */,
 				980ADC2E2549E206002B7321 /* Assets.xcassets */,
 				980ADC302549E206002B7321 /* LaunchScreen.storyboard */,
