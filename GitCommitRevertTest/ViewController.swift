@@ -26,6 +26,7 @@ class ViewController: UIViewController {
                  git revert HEAD~2   # Reverts D
             */
         // commit 3
+        // commit 4
         
     }
 
