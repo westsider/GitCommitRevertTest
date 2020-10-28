@@ -23,6 +23,8 @@ class ViewController: UIViewController {
                  
                  git reset --hard HEAD~2
             */
+        // commit 3
+        // commit 4
         
         // new head at 3rd commit
     }
