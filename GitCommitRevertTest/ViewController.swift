@@ -21,11 +21,10 @@ class ViewController: UIViewController {
                  A-B-C-D-E-F
                  where F has exactly the same content as C
                  
-                 git reset --hard HEAD~3
-                 git revert HEAD     # Reverts E
-                 git revert HEAD~2   # Reverts D
+                 git reset --hard HEAD~2
             */
         
+        // new head at 3rd commit
     }
 
 
